@@ -45,4 +45,5 @@ If the following log appears, it means it is running successfully.
 - This bot have delay every 5 minutes for sending uptime report to Blackmesh Network server.
 - You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
 
-- Register link :!https://app.blockmesh.xyz/register?invite_code=026dd1c6-7e6f-4f42-8f0d-9009a70ad9fa
+- Register link :
+https://app.blockmesh.xyz/register?invite_code=Aidal7
