@@ -33,6 +33,11 @@ python3 main.py
 - Then insert your email and password, you have doubt? it's up to you. it's an open source tool lol xD
 # Operating status
 If the following log appears, it means it is running successfully.
+
+IF YOU GET ERROR,NO PROBLEM JUST WAIT AND SEE YOUR POINT WILL I INCREASE
+
+MAKE SURE YOUR PROXY IS ACTIVE AND YOUR ACCOUNT EMAIL PASSWORD.
+
 ```bash
 [23:10:40] Login successfuly | YOUR-IP
 [23:10:41] PING successfully | YOUR-IP
